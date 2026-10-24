@@ -57,15 +57,6 @@ flowchart LR
 | **Products** | Size variants, stock levels, low-stock alerts, FAQs |
 | **AI Usage** | Monthly limit enforced on the server |
 
-## Screenshots
-
-| Home | Reply Studio | Customers |
-|:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Reply Studio](screenshots/reply.png) | ![Customers](screenshots/customers.png) |
-
-| Orders | Follow-up | Products |
-|:---:|:---:|:---:|
-| ![Orders](screenshots/orders.png) | ![Follow-up](screenshots/followup.png) | ![Products](screenshots/products.png) |
 
 ## Installation
 
