@@ -35,11 +35,11 @@ I'm **Sumaiya Akter Runa**, a Computer Science and Engineering graduate passiona
 
 My primary focus is **Flutter App Development**, with an interest in clean UI/UX, backend integration, and AI-powered mobile experiences.
 
-- 📱 Developing cross-platform applications with Flutter and Dart.
-- 🔗 Integrating REST APIs, Firebase, authentication, and databases.
-- 🎨 Exploring user-centered design and intuitive interfaces.
-- 🤖 Learning to integrate AI capabilities into mobile applications.
-- 🌱 Continuously improving my software development skills.
+- Developing cross-platform applications with Flutter and Dart.
+- Integrating REST APIs, Firebase, authentication, and databases.
+- Exploring user-centered design and intuitive interfaces.
+- Learning to integrate AI capabilities into mobile applications.
+- Continuously improving my software development skills.
 
 <br/>
 
@@ -59,9 +59,9 @@ My primary focus is **Flutter App Development**, with an interest in clean UI/UX
 
 <!-- =============== TECH STACK =============== -->
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
-### 📱 Mobile App Development
+### Mobile App Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark" alt="Flutter, Dart, Android Studio and Firebase" />
@@ -75,7 +75,7 @@ My primary focus is **Flutter App Development**, with an interest in clean UI/UX
   <img src="https://img.shields.io/badge/REST%20APIs-0B1026?style=for-the-badge&logo=fastapi&logoColor=93C5FD" alt="REST APIs" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker&theme=dark" alt="Python, FastAPI, Django, PostgreSQL, MySQL, Redis and Docker" />
@@ -90,7 +90,7 @@ My primary focus is **Flutter App Development**, with an interest in clean UI/UX
   <img src="https://img.shields.io/badge/Firebase-0B1026?style=flat-square&logo=firebase&logoColor=FACC15" alt="Firebase" />
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/LLM%20Integration-0B1026?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM integration" />
@@ -106,7 +106,7 @@ My primary focus is **Flutter App Development**, with an interest in clean UI/UX
   <img src="https://img.shields.io/badge/On--Device%20ML-0B1026?style=flat-square&logoColor=A78BFA" alt="On-device machine learning" />
 </p>
 
-### 🎨 UI/UX & Development Tools
+### UI/UX & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark" alt="Figma, Git, GitHub, VS Code and Postman" />
@@ -124,20 +124,20 @@ My primary focus is **Flutter App Development**, with an interest in clean UI/UX
 
 <!-- =============== AREAS OF INTEREST =============== -->
 
-## ✨ Areas of Interest
+## Areas of Interest
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Mobile Engineering
+### Mobile Engineering
 
 Flutter, Dart, application architecture, responsive layouts, and maintainable mobile applications.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 Backend Integration
+### Backend Integration
 
 REST APIs, authentication, database connectivity, and reliable communication between applications and services.
 
@@ -146,14 +146,14 @@ REST APIs, authentication, database connectivity, and reliable communication bet
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX Design
+### UI/UX Design
 
 User-centered design, wireframes, prototyping, usability, and clean interfaces.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Applications
+### AI-Powered Applications
 
 LLM integration, retrieval-augmented generation, embeddings, and on-device ML exploration.
 
@@ -165,7 +165,7 @@ LLM integration, retrieval-augmented generation, embeddings, and on-device ML ex
 
 <!-- =============== GITHUB ANALYTICS =============== -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -190,7 +190,7 @@ LLM integration, retrieval-augmented generation, embeddings, and on-device ML ex
 
 <!-- =============== CONNECT =============== -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm happy to connect with developers, exchange ideas, learn from the community, and explore opportunities in mobile application development.
 
